@@ -90,5 +90,10 @@ Build a GUI interface using flask
 
 - **Semantic Validation for AAS Submodels using Semantic Dictionary and Generative AI**  
   *IN4PL 2025, Marbella – Shortlisted for Best Paper Award 🎉*
+## 🔗 ORCID QR Code
+
+<p align="center">
+  <img src="./orchid(1).png" alt="ORCID QR Code" width="200"/>
+</p>
 
 ---
