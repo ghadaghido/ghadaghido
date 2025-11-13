@@ -91,5 +91,8 @@ Build a GUI interface using flask
 - **Semantic Validation for AAS Submodels using Semantic Dictionary and Generative AI**  
   *IN4PL 2025, Marbella – Shortlisted for Best Paper Award 🎉*
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--4881--7524-green?logo=orcid)](https://orcid.org/0009-0005-4881-7524)
+## 📚 ResearchGate
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ghada-Mohamed-60)
+
 
 ---
