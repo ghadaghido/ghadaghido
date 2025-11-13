@@ -55,6 +55,7 @@
 ## Current Projects
 - [AAS Dashboard for Industry 4.0 -HTW](https://github.com/eclipse-basyx/basyx-applications/tree/main/dashboard-api): The Dashboard API is a RESTful service that provides a backend for the AAS Web UI's Dashboard feature. It enables users to create, view and manage widgets for monitoring and controlling assets in an Industry 4.0 environment. The API is built using Spring Boot and is available as on off-the-shelf component from our Dockerhub repository.
 - [Test Orchestrator – HTW Berlin](https://github.com/eclipse-basyx/basyx-applications/tree/main/test-orchestrator)
+- [Test Orchestrator WiKi– HTW Berlin](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/testorchestrator/index.html)
 A Java-based validation framework for automated compliance testing of AAS Submodels according to IDTA standards.  
 Includes semantic rule checking, mismatch detection, UML architecture, and full test automation.
 The Test Orchestrator is a Java-based project that validates and compares submodel elements against predefined schemas. The project aims to identify mismatches between elements based on specific semantic IDs and ensure that each element conforms to its expected structure. This is particularly useful for validating industry-specific standards or protocols, where precise schema matching is critical
