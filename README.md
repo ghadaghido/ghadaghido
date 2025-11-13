@@ -73,3 +73,18 @@ Extract data using Sparql queries and retrieve data as API Json file
 Build a whole python script to generate competency profile for employees as a word document 
 Decode and encode images and store in Knowledge graph 
 Build a GUI interface using flask
+---
+
+## 🧪 Research, Publications & Awards
+
+### **IEEE Publications (2025)**  
+- **An Automated Approach to Compliance Testing of Standardized Submodel Templates**  
+  *IEEE ICPS 2025, Emden*
+
+- **Real-Time Compliance Testing of AAS Submodels via Event-Driven Automation**  
+  *IEEE ETFA 2025, Porto*
+
+- **Semantic Validation for AAS Submodels using Semantic Dictionary and Generative AI**  
+  *IN4PL 2025, Marbella – Shortlisted for Best Paper Award 🎉*
+
+---
